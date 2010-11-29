@@ -36,7 +36,7 @@ body {
 #resume h6 { border: 0 !important; }
 #resume h1 {
   font-size: 170% !important;
-  border-top: 4px solid #aaaaaa !important;
+  border-top: 1px solid #aaaaaa !important;
   padding-top: 0.5em !important;
   margin-top: 1.5em !important;
 }
@@ -48,7 +48,7 @@ body {
 #resume h2 {
   font-size: 150% !important;
   margin-top: 1.5em !important;
-  border-top: 4px solid #e0e0e0 !important;
+  border-top: 1px solid #e0e0e0 !important;
   padding-top: 0.5em !important;
 }
 #resume h3 { margin-top: 1em !important; }
