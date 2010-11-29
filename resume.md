@@ -33,7 +33,7 @@ Developed a PHP/MySQL based social music website that aggregates MP3s from music
 #### Web Development Intern  
 ##### October 2010 - Current  
 
-Created the entire [Ujima Project](http://ujima-project.org) website. Did everyhing from scripting dataset ETL, to Rails development, to nginx/Passenger/Capistrano deployment to front end CSS and jQuery.
+Created the [Ujima Project](http://ujima-project.org) website. Did everyhing from scripting dataset ETL, to Rails development, to server deployment and front end design.
 
 ###THInC Lab, Ann Arbor MI  
 #### Simulation Developer  
