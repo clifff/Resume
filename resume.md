@@ -1,7 +1,7 @@
 # Clif Reeder
 
- * <clifreeder@gmail.com>
- * <http://github.com/Clifff>
+ * Email: <clifreeder@gmail.com>
+ * Github: <http://github.com/Clifff>
 
 ## Education
 
