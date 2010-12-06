@@ -19,7 +19,7 @@ Developed the entire Ujima Project website. Ujima aims to collect and visualize 
 Designed and developed a simulated anesthesia tool-set (ventilator, vital signs display, drug table, etc) for use in an industrial engineers PhD research. Written it C++, it used four touchscreen monitors for input and networked with another computer that simulated the operating table. I used the SFML library for the graphics and multithreading. Click the title for a demo video!
 
 ###[Michigan Daily Mobile](http://m.michigandaily.com/#frontPage)  
-Designed the Michigan Daily mobile website. It is meant to be used for touchbased WebKit browsers. Built with a jQuery plugin (jQTouch), CSS,  some backend PHP, and a lot of AJAX.  
+Designed the Michigan Daily mobile website. It is meant to be used with a touchscreen WebKit browser. Built with a jQuery plugin (jQTouch), CSS,  some backend PHP, and a lot of AJAX.  
 
 ###Research Database Mangement  
 Created and maintained a MySQL database for analysis of simulation data for an industrial engineering PhD candidate’s research. Wrote an AJAX/PHP web interface to batch upload/parse data, and generated data analysis per research requirements with PHP and SQL queries.  
